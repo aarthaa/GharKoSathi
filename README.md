@@ -1,1 +1,6 @@
-Gift Delivery Web App 
+<<<<<<< HEAD
+
+
+# GharKoSathi
+An Everyday Essential Delivery Platform
+
